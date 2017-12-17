@@ -22,4 +22,4 @@ Python、R、MySQL、JavaScript
 *GEFT全民財經檢定合格
 
 ## Jinyuan履歷網站與專題作品
-[https://yuandata.github.io/index.html](https://yuandata.github.io)
+[https://yuandata.github.io/](https://yuandata.github.io)
