@@ -1,4 +1,4 @@
-# Jinyuan的履歷表<br>Jinyuan’s resume
+# Jinyuan的履歷表
 ## 經驗概敘<br>Experience Summary
 
 * 現任職國立大學 大數據中心專任研究助理
