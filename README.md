@@ -1,4 +1,3 @@
-Alan的履歷表
 ## 經驗概敘<br>Experience Summary
 
 * 現任職：外貿協會
@@ -15,11 +14,12 @@ Python、R、MySQL、MongoDB、GCP
 ### 工作技能
 資料探勘、數據分析、程式設計、大數據分析
 ### 語文能力
-英文TOEIC聽讀785分 口說140分
+TOEIC聽讀785分
+TOEIC口說140分
 ### 證照資格
-*資策會巨量資料分析師養成班結訓
-*外貿協會國貿特訓班結訓
-*GEFT全民財經檢定合格
+* 資策會巨量資料分析師養成班結訓
+* 外貿協會國貿特訓班結訓
+* GEFT全民財經檢定合格
 
 ## Alan履歷網站與專題作品
 [https://yuandata.github.io/](https://yuandata.github.io)
